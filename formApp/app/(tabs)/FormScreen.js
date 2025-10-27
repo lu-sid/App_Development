@@ -1,21 +1,8 @@
 import {
-  addDoc,
-  collection,
-  deleteDoc,
-  doc,
-  getDocs,
-  updateDoc,
+  addDoc,collection,deleteDoc,doc,getDocs,updateDoc,
 } from "firebase/firestore";
 import { useEffect, useState } from "react";
-import {
-  Alert,
-  Button,
-  FlatList,
-  StyleSheet,
-  Text,
-  TextInput,
-  TouchableOpacity,
-  View,
+import {Alert,Button,FlatList,StyleSheet,Text,TextInput,TouchableOpacity,View,
 } from "react-native";
 import { db } from "../../firebaseConfig";
  // ✅ make sure this path is correct
