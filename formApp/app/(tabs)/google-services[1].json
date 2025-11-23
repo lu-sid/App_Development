@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202381822263",
+    "project_id": "exp-12",
+    "storage_bucket": "exp-12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202381822263:android:6d7fe0600b4cdfc89fb2b2",
+        "android_client_info": {
+          "package_name": "com.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbrezmB408119V9YokS5IdTEODeZb5EtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
