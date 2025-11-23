@@ -1,0 +1,22 @@
+# Flutter / React Native / Dart Builds
+build/
+.dart_tool/
+.pub/
+node_modules/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Android / iOS build output
+android/.gradle/
+android/app/build/
+ios/Pods/
