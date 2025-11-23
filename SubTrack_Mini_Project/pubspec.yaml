@@ -14,7 +14,6 @@ dependencies:
   confetti: ^0.7.0
   
   pdf: ^3.11.0
-  pdf_google_fonts: ^1.2.0
   printing: ^5.13.1
 
   flutter_local_notifications: ^17.1.2
